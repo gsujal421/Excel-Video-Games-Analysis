@@ -55,11 +55,8 @@ The dataset used includes over 64,000 video game titles with fields such as:
 3. Use slicers to filter the dashboard by genre, platform, publisher, and year.
 4. Analyze trends and patterns across different visualizations.
 
----
 
-## 📷 Preview
 
-![Video Game Sales Dashboard Screenshot](./dashboard-preview.png)
 
 ---
 
